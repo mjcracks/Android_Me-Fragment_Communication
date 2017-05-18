@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_7cd5fee698255d93573748035473c9758e18b74a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_dc92acba63d402c151090a3cfa89c677c99a93e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_d50c9f4c8fc1e331fc24ea256ef3f03a73a35a98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3856155be4c4bb28d79a062bf5d0898682a55b23">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3e7adf75a08eabec7e3249ec8517a77733c0d7a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_75e5bb14706265cc570fefbcafb8840097a14fed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_d2833f22ed5ec79b54e7eed4f22845d27b84b2c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_a2b905556930560ebed5bd450649900c8adff79a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a510a0fbbd5c7d680ffcf76351792975a9d642d2">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b13eee4d8999fc4fb2a9e6a51aaffcfda660885/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_9893c92c8ec778de05e060faad0757f012e48bc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_0d34d03d790bb9733b368c51181ff5ef162fb814/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_3367bca1f088d3cbebec99768c7aa9ebb18707fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_49c977bb3cb8dba9f022ed77dda9464df112ffbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_eefc6f4e63de2c78b6c2dcf3ca4fb564d681da0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_0ed9f0f95d0137cfd0ec1d93de4f29aa6268966c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/manishjoshi/Downloads/Android_Me-TFragments.00-StartingCode/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_be3bb90b18e7cc354da6670b29053d67b9e1db83/classes.dex" />
+    </item>
+
+</items>
